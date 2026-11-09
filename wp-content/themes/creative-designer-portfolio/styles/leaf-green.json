@@ -1,0 +1,46 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Leaf Green",
+  "version": 2,
+  "settings": {
+    "color": {
+	"palette": [
+			{
+				"slug": "background",
+				"color": "#43b764",
+				"name": "Background"
+			},
+			{
+				"slug": "background-two",
+				"color": "#effff4",
+				"name": "Background Two"
+			},
+			{
+				"slug": "background-three",
+				"color": "#E5E1E0",
+				"name": "Background Three"
+			},
+			{
+				"slug": "title-color",
+				"color": "#251D1B",
+				"name": "Title Color"
+			},
+			{
+				"slug": "primary",
+				"color": "#000000",
+				"name": "Primary"
+			},
+			{
+				"slug": "foreground",
+				"color": "#ffffff",
+				"name": "Foreground"
+			},
+			{
+				"slug": "secondary",
+				"color": "#383838",
+				"name": "Secondary"
+			}
+		]
+    }
+  }
+}

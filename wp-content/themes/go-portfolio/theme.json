@@ -1,0 +1,118 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json",
+	"version": 3,
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"custom": true,
+			"customDuotone": false,
+			"customGradient": false,
+			"defaultDuotone": false,
+			"defaultGradients": false,
+			"defaultPalette": false,
+			"palette": [
+				{
+					"slug": "primary",
+					"color": "#ED2A28",
+					"name": "Primary"
+				},
+				{
+					"slug": "secondary",
+					"color": "#222429",
+					"name": "Secondary"
+				},
+				{
+					"slug": "gray",
+					"color": "#686a6f",
+					"name": "Gray"
+				},
+				{
+					"slug": "white",
+					"color": "#ffffff",
+					"name": "White"
+				}
+			]
+		},
+		"layout": {
+			"contentSize": "1170px",
+			"wideSize": "1170px"
+		},
+		"typography": {
+			"dropCap": false,
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"fontFamily": "'Nunito Sans', sans-serif",
+					"slug": "nunito-sans",
+					"name": "Nunito Sans"
+				},
+				{
+					"fontFamily": "'Montserrat', sans-serif",
+					"slug": "montserrat",
+					"name": "Montserrat"
+				}
+			],
+			"fontSizes": [
+				{
+					"slug": "small",
+					"size": "14px",
+					"name": "Small"
+				},
+				{
+					"slug": "medium",
+					"size": "16px",
+					"name": "Medium"
+				},
+				{
+					"slug": "large",
+					"size": "24px",
+					"name": "Large"
+				},
+				{
+					"slug": "x-large",
+					"size": "36px",
+					"name": "Extra Large"
+				}
+			]
+		},
+		"spacing": {
+			"units": [ "px", "em", "rem", "vh", "vw" ]
+		},
+		"blocks": {
+			"core/paragraph": {
+				"typography": {
+					"lineHeight": true
+				}
+			}
+		}
+	},
+	"styles": {
+		"color": {
+			"background": "#ffffff",
+			"text": "#222429"
+		},
+		"typography": {
+			"fontFamily": "'Nunito Sans', sans-serif",
+			"fontSize": "16px",
+			"lineHeight": "1.75"
+		},
+		"elements": {
+			"heading": {
+				"typography": {
+					"fontFamily": "'Montserrat', sans-serif",
+					"fontWeight": "700"
+				}
+			},
+			"link": {
+				"color": {
+					"text": "#ED2A28"
+				},
+				":hover": {
+					"color": {
+						"text": "#c41f1d"
+					}
+				}
+			}
+		}
+	}
+}

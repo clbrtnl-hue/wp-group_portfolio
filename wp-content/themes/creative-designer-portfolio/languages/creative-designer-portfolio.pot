@@ -1,0 +1,504 @@
+# Copyright (C) 2026 Themes Carts
+# This file is distributed under the GNU General Public License version 2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Creative Designer Portfolio 1.0\n"
+"Report-Msgid-Bugs-To: https://WordPress.org/support/theme/creative-designer-portfolio\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-07-28T11:04:44+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: creative-designer-portfolio\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Creative Designer Portfolio"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.themescarts.com/products/creative-designer-portfolio"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Creative Designer Portfolio theme is designed with a clean layout that highlights visual content while maintaining an organized structure. It includes customizable homepage sections, responsive page layouts, and flexible typography settings for creating a consistent presentation across devices. The theme supports featured images, galleries, blog pages, and portfolio-style content organization. Users can adjust colors, menus, headers, backgrounds, and widgets through built-in customization options without editing code. It is compatible with popular plugins and follows current coding standards for improved performance and usability. The layout is optimized for readability with balanced spacing and structured content areas. Additional features include social media integration, multiple page templates, navigation controls, and footer customization. The theme also supports logo uploads, favicon settings, and translation readiness. Its responsive design ensures that portfolio content, images, and text remain accessible on desktops, tablets, and mobile devices while providing a structured and professional browsing experience."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Themes Carts"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.themescarts.com/"
+msgstr ""
+
+#: inc/block-patterns.php:18
+msgid "Creative Designer Portfolio Patterns"
+msgstr ""
+
+#: inc/block-patterns.php:19
+#: inc/patterns/footer-default.php:70
+#: inc/patterns/sidebar.php:35
+msgid "Pages"
+msgstr ""
+
+#: inc/patterns/archive-inner-banner.php:6
+msgid "Archive Inner Banner"
+msgstr ""
+
+#: inc/patterns/banner-section.php:7
+msgid "Banner Section"
+msgstr ""
+
+#: inc/patterns/banner-section.php:15
+msgid "designer."
+msgstr ""
+
+#: inc/patterns/banner-section.php:30
+msgid "freelance digital designer"
+msgstr ""
+
+#: inc/patterns/banner-section.php:34
+msgid "portfolio."
+msgstr ""
+
+#: inc/patterns/banner-section.php:40
+msgid "hi, i’m "
+msgstr ""
+
+#: inc/patterns/banner-section.php:40
+msgid "olivia carter"
+msgstr ""
+
+#: inc/patterns/banner-section.php:40
+msgid ", and this is my portfolio."
+msgstr ""
+
+#: inc/patterns/banner-section.php:44
+msgid "Lorem Ipsum&nbsp;is simply dummy text of the printing and type setting industry."
+msgstr ""
+
+#: inc/patterns/banner-section.php:49
+msgid "lets talk"
+msgstr ""
+
+#: inc/patterns/footer-default.php:6
+msgid "Default Footer"
+msgstr ""
+
+#: inc/patterns/footer-default.php:14
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+msgstr ""
+
+#: inc/patterns/footer-default.php:32
+msgid "Services"
+msgstr ""
+
+#: inc/patterns/footer-default.php:36
+msgid "creative design solutions"
+msgstr ""
+
+#: inc/patterns/footer-default.php:40
+msgid "brand transformation"
+msgstr ""
+
+#: inc/patterns/footer-default.php:44
+msgid "PPC expertise"
+msgstr ""
+
+#: inc/patterns/footer-default.php:48
+msgid "case studies showcase"
+msgstr ""
+
+#: inc/patterns/footer-default.php:52
+msgid "portfolio consultation"
+msgstr ""
+
+#: inc/patterns/footer-default.php:58
+msgid "quick links"
+msgstr ""
+
+#: inc/patterns/footer-default.php:62
+msgid "home"
+msgstr ""
+
+#: inc/patterns/footer-default.php:66
+msgid "About"
+msgstr ""
+
+#: inc/patterns/footer-default.php:74
+msgid "Blog"
+msgstr ""
+
+#: inc/patterns/footer-default.php:78
+msgid "Contact"
+msgstr ""
+
+#: inc/patterns/footer-default.php:84
+msgid "links"
+msgstr ""
+
+#: inc/patterns/footer-default.php:88
+msgid "Terms of use"
+msgstr ""
+
+#: inc/patterns/footer-default.php:92
+msgid "Privacy Policy"
+msgstr ""
+
+#: inc/patterns/footer-default.php:96
+msgid "Cookie Policy"
+msgstr ""
+
+#: inc/patterns/footer-default.php:100
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: inc/patterns/footer-default.php:108
+msgid "© 2026. Creative Designer Portfolio All rights reserved"
+msgstr ""
+
+#: inc/patterns/header-default.php:6
+msgid "Default Header"
+msgstr ""
+
+#: inc/patterns/header-default.php:38
+msgid "Download CV"
+msgstr ""
+
+#: inc/patterns/hidden-404.php:6
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/patterns/hidden-404.php:10
+msgid "404"
+msgstr ""
+
+#: inc/patterns/hidden-404.php:14
+msgid "This page is not found"
+msgstr ""
+
+#: inc/patterns/inner-banner.php:6
+msgid "Inner Banner"
+msgstr ""
+
+#: inc/patterns/post-one-column.php:6
+msgid "Post One Column"
+msgstr ""
+
+#: inc/patterns/post-two-column.php:6
+msgid "Post Two Column"
+msgstr ""
+
+#: inc/patterns/project-section.php:6
+msgid "Project Section"
+msgstr ""
+
+#: inc/patterns/project-section.php:15
+msgid "previous projects"
+msgstr ""
+
+#: inc/patterns/project-section.php:19
+msgid "our creative case studies"
+msgstr ""
+
+#: inc/patterns/search-banner.php:6
+msgid "Search Banner"
+msgstr ""
+
+#: inc/patterns/sidebar.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: inc/patterns/sidebar.php:11
+msgid "Search Here"
+msgstr ""
+
+#: inc/patterns/sidebar.php:19
+msgid "Categories"
+msgstr ""
+
+#: inc/patterns/sidebar.php:27
+msgid "Archives"
+msgstr ""
+
+#: inc/patterns/sidebar.php:43
+msgid "Social Media"
+msgstr ""
+
+#: styles/blue-violet.json
+msgctxt "Style variation name"
+msgid "Blue Violet"
+msgstr ""
+
+#: styles/blue-violet.json
+#: styles/bright-purple.json
+#: styles/brown.json
+#: styles/leaf-green.json
+#: styles/light-blue.json
+#: styles/lime-green.json
+#: styles/olive-green.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/sea-green-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blue-violet.json
+#: styles/bright-purple.json
+#: styles/brown.json
+#: styles/leaf-green.json
+#: styles/light-blue.json
+#: styles/lime-green.json
+#: styles/olive-green.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/sea-green-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background Two"
+msgstr ""
+
+#: styles/blue-violet.json
+#: styles/bright-purple.json
+#: styles/brown.json
+#: styles/leaf-green.json
+#: styles/light-blue.json
+#: styles/lime-green.json
+#: styles/olive-green.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/sea-green-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background Three"
+msgstr ""
+
+#: styles/blue-violet.json
+#: styles/bright-purple.json
+#: styles/brown.json
+#: styles/leaf-green.json
+#: styles/light-blue.json
+#: styles/lime-green.json
+#: styles/olive-green.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/sea-green-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Title Color"
+msgstr ""
+
+#: styles/blue-violet.json
+#: styles/bright-purple.json
+#: styles/brown.json
+#: styles/leaf-green.json
+#: styles/light-blue.json
+#: styles/lime-green.json
+#: styles/olive-green.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/sea-green-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/blue-violet.json
+#: styles/bright-purple.json
+#: styles/brown.json
+#: styles/leaf-green.json
+#: styles/light-blue.json
+#: styles/lime-green.json
+#: styles/olive-green.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/sea-green-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/blue-violet.json
+#: styles/bright-purple.json
+#: styles/brown.json
+#: styles/leaf-green.json
+#: styles/light-blue.json
+#: styles/lime-green.json
+#: styles/olive-green.json
+#: styles/pink.json
+#: styles/purple.json
+#: styles/sea-green-blue.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/bright-purple.json
+msgctxt "Style variation name"
+msgid "Bright Purple"
+msgstr ""
+
+#: styles/brown.json
+msgctxt "Style variation name"
+msgid "Brown"
+msgstr ""
+
+#: styles/leaf-green.json
+msgctxt "Style variation name"
+msgid "Leaf Green"
+msgstr ""
+
+#: styles/light-blue.json
+msgctxt "Style variation name"
+msgid "Light Blue"
+msgstr ""
+
+#: styles/lime-green.json
+msgctxt "Style variation name"
+msgid "Lime Green"
+msgstr ""
+
+#: styles/olive-green.json
+msgctxt "Style variation name"
+msgid "Olive Green"
+msgstr ""
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr ""
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr ""
+
+#: styles/sea-green-blue.json
+msgctxt "Style variation name"
+msgid "Sea Green Blue"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Front Page"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pages (Right Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pages (Left Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pages (Without Header Image)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog (Full Width)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog (Left Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog (Without Header Image)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Link and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Link and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr ""

@@ -35,19 +35,22 @@ The website is branded **The Creative Stack**. It shows who we are as a team, ou
 
 ## Repository contents
 
-- **Theme / PHP:** WordPress custom theme files (`functions.php`, `style.css`, `templates`, `assets`, and related folders)
-- **Database:** `websitedb.sql` (export of the local WordPress database `websitedb`)
-- **Config sample:** `wp-config-sample.php` (copy to `wp-config.php` for local setup)
+This repository contains the full local WordPress project:
+
+- **PHP / WordPress core:** `index.php`, `wp-admin`, `wp-includes`, and related PHP files
+- **Themes:** `wp-content/themes/` (custom theme: `team-portfolio-v1-1`)
+- **Plugins:** `wp-content/plugins/`
+- **Uploads:** `wp-content/uploads/`
+- **Database:** `websitedb.sql`
 
 ## How to run locally
 
-1. Install WordPress on Laragon or XAMPP.
-2. Copy this theme into `wp-content/themes/team-portfolio-v1-1`.
-3. Create a MySQL database named `websitedb`.
-4. Import `websitedb.sql` in phpMyAdmin (or: `mysql -u root websitedb < websitedb.sql`).
-5. Copy `wp-config-sample.php` to `wp-config.php` and set your local database user/password.
-6. Activate the **Team Portfolio** theme.
-7. Go to **Settings → Permalinks** and click **Save Changes**.
+1. Copy this repository into a local server folder (Laragon `www` or XAMPP `htdocs`).
+2. Create a MySQL database named `websitedb`.
+3. Import `websitedb.sql` in phpMyAdmin.
+4. Copy `wp-config-sample.php` to `wp-config.php` if needed, then set local database user/password.
+5. Open the site in the browser and activate **Team Portfolio** if it is not already active.
+6. Go to **Settings → Permalinks** and click **Save Changes**.
 
 ## Notes
 

@@ -1,0 +1,332 @@
+/* Responsive CSS */
+@media screen and (max-width:1169px) and (min-width:981px) {
+	html{overflow-x:hidden; }
+	.banner-wrap h2{
+		font-size: 35px !important;
+	}
+}
+@media screen and (max-width: 980px){
+	.fse-overlap-image{ position:relative !important; right:auto !important; bottom:auto !important; margin:25px 0 !important;}
+	.wp-block-section-01 h2, .wp-block-section-02 h2{ font-size:28px !important; }
+	.wpcf7 input[type="text"], 
+	.wpcf7 input[type="tel"], 
+	.wpcf7 input[type="email"], 
+	.wpcf7 textarea{ 
+		width:100%;
+	}	
+	.blog-area .wp-block-post-template{
+		grid-template-columns: auto auto;
+	}
+	.banner-wrap h2,
+	.banner-wrap p{
+		text-align: center;
+	}	
+	.banner-wrap .wp-block-buttons,
+	.logo-box,
+	.search-box .wp-block-search__inside-wrapper{
+		justify-content: center;
+	}
+    .search-box .wp-block-search__input {
+    	position: static;
+    }
+    .feature-box {
+	    margin-bottom: 35px !important;
+	}
+}
+@media (max-width: 1100px) {
+	.post-page-area .wp-block-columns.is-layout-flex.wp-block-columns-is-layout-flex {
+		max-width: 100% !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+	}
+}
+@media (max-width: 990px) {
+	.post-page-area .wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column {
+		padding-right: 0 !important;
+	}
+}
+@media (max-width: 500px){
+	
+}
+@media (max-width: 767px){
+	*{box-sizing:border-box;}
+	.wp-block-navigation__responsive-container.is-menu-open.has-modal-open{ padding:25px;}
+	.banner-wrap h2{
+		font-size: 30px !important;
+	}
+	.main-header .header-right .header-btn, .main-banner .banner-btm-info .banner-btn{
+		justify-content: center;
+	}
+	.main-banner .banner-box2 .banner-info-title{
+		width: 100%;
+		left: auto;
+		font-size: 35px !important;
+        letter-spacing: 2px !important;
+	}
+	.main-banner .banner-info-box .banner-btm-info{
+		padding-right: 0 !important;
+		text-align: center;
+	}
+	.main-banner .banner-box1 .banner-left-title {
+		writing-mode: unset;
+		width: 100%;
+		font-size: 43px !important;
+        text-align: center;
+	}
+	.main-banner .banner-box1 .banner-inner-box{
+		flex-direction: column;
+		padding-top: 15px;
+	}
+	.main-banner .banner-btm-info .banner-btm-title{
+		font-size: 26px !important;
+	}
+	.main-banner .banner-top-info .banner-info-sub-title{
+		font-size: 13px !important;
+		letter-spacing: 3px !important;
+		text-align: center;
+	}
+	.main-banner .banner-btm-info .banner-desc{
+		font-size: 12px;
+	}
+	.main-banner .banner-box1 .banner-img-bg{
+		min-height: 230px;
+	}
+	.main-banner .banner-box1 .banner-mid-img img{
+		height: 280px !important;
+	}
+	.main-banner .banner-box2 .banner-info-box{
+		padding: 15px 0 !important;
+	}
+	.project-section .project-info-box .project-img-bg{
+		min-height: 280px !important;
+	}
+	.project-section .project-info-box .project-img-bg figure, .project-section .project-info-box .project-img-bg img.wp-post-image, .project-section .project-info-box .project-img-bg figure.wp-block-post-featured-image a{
+		height: 280px !important;
+	}
+	.project-section .project-head-box .project-title{
+		font-size: 25px !important;
+	}
+	.project-section .project-boxes ul.wp-block-post-template{
+		grid-template-columns: 100%;
+	}
+
+
+
+
+
+	.single-post .post-page-area .wp-block-post-featured-image{
+		width: 100% !important;
+	}
+	.footer-outer-box .footer-boxes{
+		text-align: center;
+	}
+	.footer-outer-box .footer-boxes .wp-block-social-links{
+		justify-content: center;
+	}
+}
+@media screen and (max-width:991px) and (min-width:501px) {
+	
+	
+}
+@media (max-width: 991px){
+	
+	
+}
+@media screen and (max-width: 991px) and (min-width: 768px){
+	.main-header .menu-header-boxes{
+		flex-direction: column;
+	}
+	.main-header .header-right .header-btn, .main-header .header-logo .logo-box{
+        justify-content: center;
+    }
+	.main-banner .banner-bg{
+		min-height: 450px !important;
+	}
+	.main-banner .banner-boxes, .project-section .project-info-box .project-info{
+		flex-wrap: nowrap !important;
+	}
+	.main-banner .banner-box2 .banner-btm-info{
+		padding: 0 !important;
+	}
+	.main-banner .banner-boxes:not(.is-not-stacked-on-mobile)>.banner-box1,
+	.main-banner .banner-boxes:not(.is-not-stacked-on-mobile)>.banner-box2{
+		flex-basis: 50% !important;
+	}
+	.main-banner .banner-box1 .banner-img-bg{
+		min-height: 260px;
+	}
+	.main-banner .banner-box1 .banner-mid-img img{
+		height: 260px !important;
+	}
+	.main-banner .banner-box2 .banner-info-title {
+		font-size: 55px !important;
+		width: calc(100% + 70px);
+		left: -40px;
+	}
+	.main-banner .banner-box2 .banner-info-sub-title{
+		font-size: 12px !important;
+		letter-spacing: 3px !important;
+	}
+	.main-banner .banner-btm-info .banner-btm-title{
+		font-size: 25px !important;
+	}
+	.main-banner .banner-box1 .banner-left-title{
+		font-size: 60px !important;
+		width: 62px;
+	}
+	
+	.project-section .project-info-box .project-img-bg{
+		min-height: 260px !important;
+	}
+	.project-section .project-info-box .project-img-bg figure, .project-section .project-info-box .project-img-bg img.wp-post-image, .project-section .project-info-box .project-img-bg figure.wp-block-post-featured-image a{
+		height: 260px !important;
+	}
+	.project-section .project-boxes ul.wp-block-post-template{
+		gap: 10px;
+		grid-template-columns: auto auto;
+	}
+	.project-section .project-info{
+		gap: 8px;
+	}
+	.project-section .project-info:not(.is-not-stacked-on-mobile)>.project-left-info{
+		flex-basis: 85% !important;
+	}
+	.project-section .project-info:not(.is-not-stacked-on-mobile)>.project-right-info{
+		flex-basis: 15% !important;
+	}
+		
+
+
+
+
+
+	
+	.wp-block-navigation .wp-block-navigation-item a{
+		font-size: 14px;
+		padding: 4px 10px;
+	}
+	.wp-block-navigation .wp-block-navigation__responsive-container-content ul{
+		gap: 10px !important;
+	}
+	
+	.footer-outer-box .footer-boxes{
+		display: grid;
+		grid-template-columns: auto auto;
+	}
+}
+@media screen and (max-width: 1199px) and (min-width: 992px){
+	.main-header .wp-block-navigation .wp-block-navigation-item a {
+		padding: 6px 12px;
+		font-size: 14px;
+	}
+	.main-header .menu-box nav.wp-block-navigation ul.wp-block-navigation{
+		gap: 8px;
+	}
+	.main-banner .banner-box1 .banner-left-title{
+		font-size: 78px !important;
+		width: 80px;
+	}
+	.main-banner .banner-box2 .banner-info-sub-title {
+        font-size: 12px !important;
+        letter-spacing: 3px !important;
+    }
+	.main-header .header-logo, .main-header .header-right{
+		flex-basis: 20% !important;
+	}
+	.main-banner .banner-bg{
+		min-height: 600px !important;
+	}
+	.main-banner .banner-box1 .banner-img-bg {
+        min-height: 360px;
+    }
+	.main-banner .banner-box1 .banner-mid-img img {
+        height: 360px !important;
+    }
+	.main-banner .banner-box2 .banner-btm-info{
+		padding: 0 !important;
+	}
+	.main-banner .banner-box2 .banner-info-title {
+		left: -90px;
+		font-size: 62px !important;
+	}
+	.main-banner .banner-btm-info .banner-btm-title {
+        font-size: 26px !important;
+    }
+
+	.project-section .project-info{
+		gap: 8px;
+	}
+	.project-section .project-info:not(.is-not-stacked-on-mobile)>.project-left-info{
+		flex-basis: 85% !important;
+	}
+	.project-section .project-info:not(.is-not-stacked-on-mobile)>.project-right-info{
+		flex-basis: 15% !important;
+	}
+	.project-section .project-info-box .project-img-bg{
+		min-height: 260px !important;
+	}
+	.project-section .project-info-box .project-img-bg figure, .project-section .project-info-box .project-img-bg img.wp-post-image, .project-section .project-info-box .project-img-bg figure.wp-block-post-featured-image a {
+        height: 260px !important;
+    }
+
+}
+@media screen and (min-width: 1200px) and (max-width: 1399px){
+	
+	.main-header .header-logo, .main-header .header-right{
+		flex-basis: 20% !important;
+	}
+	.main-banner .banner-box2 .banner-info-title{
+		left: -90px;
+		font-size: 75px !important;
+	}
+	.main-banner .banner-box2 .banner-btm-info{
+		padding: 0 !important;
+	}
+	.main-banner .banner-box2 .banner-info-sub-title {
+        font-size: 12px !important;
+        letter-spacing: 3px !important;
+    }
+}
+@media screen and (min-width: 1400px) and (max-width: 1799px){
+	.main-banner .banner-box2 .banner-btm-info{
+		padding-right: 4rem !important;
+	}
+	.main-banner .banner-box2 .banner-info-title{
+		left: -95px;
+		font-size: 88px !important;
+	}
+	.project-section .project-info-box .project-img-bg figure, .project-section .project-info-box .project-img-bg img.wp-post-image, .project-section .project-info-box .project-img-bg figure.wp-block-post-featured-image a {
+        height: 350px !important;
+    }
+	.project-section .project-info-box .project-img-bg {
+        min-height: 350px !important;
+    }
+}
+@media screen and (max-width: 1699px) and (min-width: 1200px){
+	.wp-block-navigation .wp-block-navigation-item a {
+		padding: 5px 15px;
+		font-size: 15px;
+	}
+	
+	
+}
+@media screen and (max-width:1250px) and (min-width:769px) {
+	.slider-main-title{
+		font-size: 36px !important;
+	}
+	.banner-wrap p{
+		font-size: 18px !important;
+	}
+	.slider-btns a{
+		padding: 10px 15px !important;
+	    font-size: 14px !important;
+	}
+	.logo-box h1{
+		font-size: 20px !important;
+	}
+}
+/* @media screen and (max-width:1300px) and (min-width:1px) {
+	.menu-header{
+		max-width: 100%;
+	}
+} */
